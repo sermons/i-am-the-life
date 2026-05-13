@@ -21,4 +21,21 @@
 ---
 <!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> id="outline" class="outline" -->
 ## Resurrection and Life (Jn11)
+1. He is Our Intercessor (v21-22)
+1. He is the Promised Messiah (v23-24,27)
+1. He is the Resurrection (v25-26)
+
+---
+<!-- .slide: data-background="white" -->
+# What **prayer** request <br/> has gone **unanswered**?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ do I still have the faith Martha had
+  + that God answers prayer?
+
+---
+<!-- .slide: data-background="white" -->
+# 
+<!-- .element: class="r-fit-text" -->
 
