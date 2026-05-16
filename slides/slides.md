@@ -174,7 +174,8 @@ and shall call his name **Immanuel**.
   + and relied on **men** instead
 + **Immanuel**: God with us
   + not **unreachable** in heaven
-  + but God in **human** form
++ Christ is the **embodiment** of God's love
+  + we are not **forgotten**
 + ch9: light **dawns** in the darkness
 
 ---
