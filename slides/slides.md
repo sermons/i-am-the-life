@@ -1,8 +1,7 @@
-<!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> id="title" -->
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> id="title" -->
 ## I AM: the 
 # Resurrection <br/> and the Life
 ## John 10:11-18
-[Moel Famau, UK.  Rick Barrett](https://unsplash.com/photos/x5hFSPUT8uU "caption")
 
 >>>
 
@@ -26,7 +25,7 @@
 + Shepherd: cares, knows, unites, lays down
 
 ---
-<!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> id="outline" class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the Son of God [(v23-24,27)](# "ref")
@@ -41,10 +40,12 @@
   + you are the miracle/blessing: see glory of God
 
 ---
+<!-- .slide: <%= bg("unsplash-JgOeRuGD_Y4-dark_mtns.jpg") %> -->
 Lord, if you had been **here**, <br/>
 my brother would **not** have died. 
 
 [John 11:21 (ESV)](# "ref")
+[John Towner](https://unsplash.com/photos/JgOeRuGD_Y4 "caption")
 
 >>>
 + Martha at this point **doesn't** believe
@@ -56,11 +57,13 @@ my brother would **not** have died.
 + and **yet**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 But **even now** I know that <br/>
 whatever you **ask** from God, <br/>
 God will give you.
 
 [John 11:21 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + still **believes** that
@@ -92,7 +95,7 @@ can **accomplish** much.
   + that God answers prayer?
 
 ---
-<!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the **Son of God** [(v23-24,27)](# "ref")
@@ -104,24 +107,28 @@ can **accomplish** much.
 + not just far off in **last day**
 
 ---
-"Whoever **believes in me**, <br/>
-though he die, yet shall he **live**, <br/>
-and everyone who lives and believes in me <br/>
-shall never die. Do you believe this?” 
+<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
+"Whoever believes in me, <br/>
+though he die, yet shall he live [...] <br/>
+Do you **believe** this?” 
 
 She said to him, “**Yes**, Lord; <br/>
 I believe that you are the **Christ**, the <br/>
 Son of God, who is coming **into the world**.”
 
 [John 11:25-27 (ESV)](# "ref")
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 ---
-He said to them, “But who do **you** say that I am?” 
+<!-- .slide: <%= bg("unsplash-Tun6jr3D0Jg-forest_beams.jpg") %> -->
+He said to them, <br/>
+“But who do **you** say that I am?” 
 
 Simon Peter replied, <br/>
 “You are the **Christ**, the Son of the living God.” 
 
 [Matthew 16:15-16 (ESV)](# "ref")
+[Hans Ott](https://unsplash.com/photos/Tun6jr3D0Jg "caption")
 
 >>>
 
@@ -152,7 +159,7 @@ and shall call his name **Immanuel**.
 + Felt like God has **forgotten**?
 
 ---
-<!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the Son of God [(v23-24,27)](# "ref")
@@ -167,8 +174,9 @@ Martha, the sister of the dead man, said to him, <br/>
 “Lord, by this time there will be an **odor**, <br/>
 for he has been dead **four days**.” 
 
-Jesus said to her, “Did I not tell you that <br/>
-if you **believed** you would see the **glory** of God?” 
+Jesus said to her, <br/>
+“Did I not tell you that if you **believed** <br/>
+you would see the **glory** of God?” 
 
 [John 11:39-40 (ESV)](# "ref")
 
@@ -176,27 +184,46 @@ if you **believed** you would see the **glory** of God?”
 + still something **missing** in Martha's faith
 
 ---
+<!-- .slide: <%= bg("wm-Kerkini_Lake_Port.jpg") %> -->
 Jesus said to her, “Your brother will **rise again**.” 
 
-Martha said to him, “I know that he will rise again <br/>
+Martha said to him, <br/>
+“I know that he will rise again <br/>
 in the resurrection on the **last day**.”
 
 [John 11:23-24 (ESV)](# "ref")
+[Kerkini Lake, Greece. Eimaiokanenas, CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/File:Kerkini_Lake_Port.jpg "caption")
 
 >>>
 + v25-26: anastasis: 
   + Gr: resuscitation (temporary), or impossible
 
 ---
+<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
+I am the **resurrection** and the **life**.
+
+Whoever **believes** in me, <br/>
+though he **die**, yet shall he **live**, 
+
+and everyone who **lives** and believes in me <br/>
+shall **never** die.
+
+[John 11:25-26 (ESV)](# "ref")
+[Alberto Restifo](https://unsplash.com/photos/Ni4NgA64TFQ "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 "Father, I thank you that you have **heard** me. <br/>
 I knew that you always hear me, but I said this <br/>
 on account of the **people** standing around, <br/>
 that they may believe that you **sent** me."
 
 When he had said these things, <br/>
-he cried out with a loud voice, “Lazarus, **come out**.”
+he cried out with a loud voice, <br/>
+“Lazarus, **come out**.”
 
 [John 11:41-43 (ESV)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + believe God **hears** Jesus
@@ -204,6 +231,7 @@ he cried out with a loud voice, “Lazarus, **come out**.”
 + see the **glory** of God
 
 ---
+<!-- .slide: <%= bg("unsplash-kmF_Aq8gkp0-barley_wheat_grain.jpg") %> -->
 But some of the Pharisees said, “Why are you <br/>
 doing what is not **lawful** to do on the Sabbath?”
 
@@ -215,17 +243,22 @@ to do **good** or to do harm, <br/>
 to **save life** or to destroy it?”
 
 [Luke 6:2,5,9 (ESV)](# "ref")
+[Zugr](https://unsplash.com/photos/kmF_Aq8gkp0 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 Was not Abraham our father justified by **works** <br/>
 when he **offered up** his son Isaac on the altar? 
 
-You see that faith was **active** along with his works, <br/>
+[F]aith was **active** along with his works, <br/>
 and faith was **completed** by his works; 
 
 and the Scripture was **fulfilled** that says, <br/>
 “Abraham **believed** God, <br/>
 and it was counted to him as righteousness”
+
+[James 2:21-23 (ESV)](# "ref")
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + and **friend** of God
@@ -239,3 +272,5 @@ and it was counted to him as righteousness”
 
 >>>
 
+---
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> class="empty" -->
