@@ -1,7 +1,8 @@
-<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> id="title" -->
 ## I AM: the 
 # Resurrection <br/> and the Life
 ## John 10:11-18
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 
@@ -25,7 +26,7 @@
 + Shepherd: cares, knows, unites, lays down
 
 ---
-<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> id="outline" class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the Son of God [(v23-24,27)](# "ref")
@@ -95,7 +96,7 @@ can **accomplish** much.
   + that God answers prayer?
 
 ---
-<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the **Son of God** [(v23-24,27)](# "ref")
@@ -159,7 +160,7 @@ and shall call his name **Immanuel**.
 + Felt like God has **forgotten**?
 
 ---
-<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> class="outline" -->
 ## Resurrection and Life (Jn11)
 1. He is Our Intercessor [(v21-22)](# "ref")
 1. He is the Son of God [(v23-24,27)](# "ref")
@@ -168,6 +169,7 @@ and shall call his name **Immanuel**.
 >>>
 
 ---
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
 Jesus said, “Take away the **stone**.” 
 
 Martha, the sister of the dead man, said to him, <br/>
