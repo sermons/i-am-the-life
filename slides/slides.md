@@ -35,8 +35,9 @@
 >>>
 + cf w/Mary: cognitive / didactic 
   + vs emotional / empathetic
-+ progression of Mary's faith:
-  + you are able, have God's ear
++ progression of Martha's faith:
+  + God hears, cares, acts
++ you are able, have God's ear
   + you are the Christ, sent by God
   + you are the miracle/blessing: see glory of God
 
@@ -85,6 +86,9 @@ can **accomplish** much.
 
 >>>
 + but **who** is righteous?
++ only God, and his perfect Son, 
+  + and those **justified** by faith. 
++ This is the **promise** we cling to 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -92,8 +96,10 @@ can **accomplish** much.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ do I still have the faith Martha had
-  + that God answers prayer?
++ do I still have the **faith** Martha had
+  + that God **answers** prayer?
++ "Even now": when **hope** is lost 
+  + when it's too **late**
 
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> class="outline" -->
@@ -103,9 +109,9 @@ can **accomplish** much.
 1. He is the Resurrection [(v25-26)](# "ref")
 
 >>>
-+ Messiah: anointed, sent
-+ Emmanuel: God with us
-+ not just far off in **last day**
++ Martha's 1st **decl** of faith:
+  + God **answers** Jesus' prayers
++ 2nd: Jesus' **mission** on earth: v27
 
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
@@ -120,6 +126,17 @@ Son of God, who is coming **into the world**.”
 [John 11:25-27 (ESV)](# "ref")
 [Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
+>>>
++ not far **future** but present 
++ though **absent** at bro's passing, 
+  + but **present** now to show 
++ God has not **forgotten**
+  + his beloved children 
++ Cf present w/**Mary** in wordless grief 
++ Cf **Peter**: Jesus asks 
+  + who **crowds** say He is 
++ and then asks **disciples**:
+
 ---
 <!-- .slide: <%= bg("unsplash-Tun6jr3D0Jg-forest_beams.jpg") %> -->
 He said to them, <br/>
@@ -132,7 +149,12 @@ Simon Peter replied, <br/>
 [Hans Ott](https://unsplash.com/photos/Tun6jr3D0Jg "caption")
 
 >>>
-
++ recognition that Jesus is **Messiah**
+  + is **revealed** by God 
++ **rock**: church's one foundation 
++ God does not stand **far off** but 
+  + **dwelt** amongst us 
++ the **sign** fulfilled at Christ's **birth**:
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
@@ -146,6 +168,10 @@ and shall call his name **Immanuel**.
 [Isaiah 7:14 (ESV)](# "ref")
 
 >>>
++ **Simeon** quoting **Isaiah**
++ when God seemed **distant**
+  + when we had **forsaken** God
+  + and relied on **men** instead
 + **Immanuel**: God with us
   + not **unreachable** in heaven
   + but God in **human** form
@@ -158,6 +184,8 @@ and shall call his name **Immanuel**.
 
 >>>
 + Felt like God has **forgotten**?
++ Martha's faith: God **with** us 
+  + **sent** into world 
 
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> class="outline" -->
@@ -167,6 +195,12 @@ and shall call his name **Immanuel**.
 1. He is the **Resurrection** [(v25-26)](# "ref")
 
 >>>
++ God hears: Jesus' prayers
++ God cares: sent Son
++ God acts: see **glory** of God 
+  + not just in **blessings**
+  + but **person** of Jesus
++ ff to v39, outside Laz's **tomb**:
 
 ---
 <!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
@@ -184,6 +218,9 @@ you would see the **glory** of God?”
 
 >>>
 + still something **missing** in Martha's faith
++ she **believed** Jesus is **Christ**
+  + but not she would see glory herself
++ back in v23, resurrection:
 
 ---
 <!-- .slide: <%= bg("wm-Kerkini_Lake_Port.jpg") %> -->
@@ -197,8 +234,10 @@ in the resurrection on the **last day**.”
 [Kerkini Lake, Greece. Eimaiokanenas, CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/File:Kerkini_Lake_Port.jpg "caption")
 
 >>>
-+ v25-26: anastasis: 
-  + Gr: resuscitation (temporary), or impossible
++ far future: **theoretical**, abstract
+  + still **true**! Genuine hope 
++ but **disconnected** from 
+  + the **man** standing before her
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
@@ -212,6 +251,11 @@ shall **never** die.
 
 [John 11:25-26 (ESV)](# "ref")
 [Alberto Restifo](https://unsplash.com/photos/Ni4NgA64TFQ "caption")
+
+>>>
++ resurrection is not an **event**
++ anastasis: rise/stand again
+  + Gr: resuscitation (temporary), or impossible
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
